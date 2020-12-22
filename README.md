@@ -1,2 +1,2 @@
-# Aria-unei-case
-proiectul din august pentru Tekwill în fiecare şcoală 
+#
+Proiectul din august pentru Tekwill în fiecare şcoală 
